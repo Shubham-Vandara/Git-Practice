@@ -1,2 +1,2 @@
 # Git-Practice
-This is simple practice for me to various command in terminal. 
+This is a simple practice for me to various commands in the terminal. 
